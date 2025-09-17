@@ -29,11 +29,10 @@ The `signals.m` script generates the following signals:
 ![DTS](./image/DTS_2.png)
 
 6. **Sinc Signal**  
-   - A signal defined as:  
+A signal defined as:
 
-     \[
-     \text{sinc}(n) = \frac{\sin(\pi n)}{\pi n}
-     \]  
+`sinc(n) = sin(π n) / (π n)`
+
 
 ---
 
